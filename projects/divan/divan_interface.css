@@ -1,0 +1,38 @@
+#button_container {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+button{
+    width: 50px;
+    height: 50px;
+    -webkit-background-size: contain;
+    background-size: contain;
+    border:1px solid #000;
+    border-radius: 5px;
+}
+#but1{
+    background-image: url(assets/mat1.jpg);
+}
+#but2{
+    background-image: url(assets/mat2.jpg);
+}
+#but3{
+    background-image: url(assets/mat3.jpg);
+}
+#but4{
+    background-image: url(assets/mat4.jpeg);
+}
+#but5{
+    background-image: url(assets/mat5.jpg);
+}
+#but6{
+    background-image: url(assets/mat6.jpg);
+}
+#but7{
+    background-image: url(assets/mat7.jpg);
+}
+#but8{
+    background-image: url(assets/mat8.jpg);
+}
